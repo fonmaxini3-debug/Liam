@@ -1,5 +1,5 @@
 <html>
-   <head>Ordered List</head><br>
+   <head><center>Ordered List</center></head>
 <body>
     <ol>
 <li><font color='red'>Red</font></li>
