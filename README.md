@@ -7,7 +7,7 @@
 <li><font color='blue'>Blue</font></li>
     </ol>
 
-     <ol type="A">
+     <oltype="A">
  <li><font color='red'>Red</font></li>
  <li><font color='green'>Green</font></li>
  <li><font color='blue'>Blue</font></li>
